@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2023/03/25/hello-world/"/>
-    <url>/2023/03/25/hello-world/</url>
+    <title>第一篇文章</title>
+    <link href="/2023/03/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <url>/2023/03/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="站长的话"><a href="#站长的话" class="headerlink" title="站长的话"></a>站长的话</h3><p>你好，这是我在这个网站上发布的第一篇文章，<br>以后我们一起努力。</p><h2 id="本站的作用"><a href="#本站的作用" class="headerlink" title="本站的作用"></a>本站的作用</h2><h3 id="视屏配套文章及附件"><a href="#视屏配套文章及附件" class="headerlink" title="视屏配套文章及附件"></a>视屏配套文章及附件</h3><p>我会在**<a href="https://space.bilibili.com/1910324323">bilibili</a>**上发视频，链接会集体存放至本站。</p><h3 id="转载其他有意思的文章"><a href="#转载其他有意思的文章" class="headerlink" title="转载其他有意思的文章"></a>转载其他有意思的文章</h3><p>我会将最近浏览到的有意思的文章转载到这里。</p><h2 id="本站的经营"><a href="#本站的经营" class="headerlink" title="本站的经营"></a>本站的经营</h2><h3 id="框架"><a href="#框架" class="headerlink" title="框架"></a>框架</h3><p>本站由**<a href="https://hexo.io/">Hexo</a><strong>，<br>Hexo是一个快速、简洁且高效的博客框架，<br>本站使用</strong><a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid主题</a>**。</p><h3 id="运作服务"><a href="#运作服务" class="headerlink" title="运作服务"></a>运作服务</h3><p>本站使用**<a href="https://github.com/">GitHub</a>**托管，<br>本站将永久托管</p><h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h2><p>一群有趣的人，做很酷的事儿。<br>如果有什么问题，清反馈到邮箱：<a href="mailto:&#116;&#x68;&#122;&#x31;&#53;&#x39;&#x31;&#54;&#x31;&#48;&#x38;&#55;&#50;&#57;&#64;&#49;&#x36;&#51;&#46;&#99;&#x6f;&#x6d;">&#116;&#x68;&#122;&#x31;&#53;&#x39;&#x31;&#54;&#x31;&#48;&#x38;&#55;&#50;&#57;&#64;&#49;&#x36;&#51;&#46;&#99;&#x6f;&#x6d;</a> ，<br>欢迎反馈！</p><h4 id="本文编号：A202303250001"><a href="#本文编号：A202303250001" class="headerlink" title="本文编号：A202303250001"></a>本文编号：A202303250001</h4><h4 id="（注：本文为站长手写，未经许可，禁止转载"><a href="#（注：本文为站长手写，未经许可，禁止转载" class="headerlink" title="（注：本文为站长手写，未经许可，禁止转载"></a>（注：本文为站长手写，未经许可，禁止转载</h4>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>文章</tag>
+      
+    </tags>
     
   </entry>
   
