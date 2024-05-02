@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>【博客搭建】P0 环境准备</title>
-    <link href="/2024/05/01/%E3%80%90%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E3%80%91P1-%E9%85%8D%E7%BD%AE%E5%8D%9A%E5%AE%A2/"/>
-    <url>/2024/05/01/%E3%80%90%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E3%80%91P1-%E9%85%8D%E7%BD%AE%E5%8D%9A%E5%AE%A2/</url>
+    <title>【博客搭建】P1 配置博客</title>
+    <link href="/2024/05/02/%E3%80%90%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E3%80%91P1-%E9%85%8D%E7%BD%AE%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2024/05/02/%E3%80%90%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E3%80%91P1-%E9%85%8D%E7%BD%AE%E5%8D%9A%E5%AE%A2/</url>
     
-    <content type="html"><![CDATA[<blockquote><p>此教程运行系统环境为：“ Windows 10 1809 企业版 G 神州网信政府版 ”，使用其他系统的可能存在误差！</p></blockquote><blockquote><p>此教程仅供参考，不能作为资料考证！</p></blockquote><hr><p><a href="http://thzstudent.top/2024/05/01/%E3%80%90%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E3%80%91P0-%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/">上期教程</a>我们配置了环境并初步部署了“ Hexo ”博客框架，本期教程，我们将美化您的博客和让您自定义自己的博客。</p><hr><hr><h4 id="教程到此完毕！"><a href="#教程到此完毕！" class="headerlink" title="教程到此完毕！"></a>教程到此完毕！</h4>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>此教程运行系统环境为：“ Windows 10 1809 企业版 G 神州网信政府版 ”，使用其他系统的可能存在误差！</p></blockquote><blockquote><p>此教程仅供参考，不能作为资料考证！</p></blockquote><h1 id="【博客搭建】P1-配置博客"><a href="#【博客搭建】P1-配置博客" class="headerlink" title="【博客搭建】P1 配置博客"></a>【博客搭建】P1 配置博客</h1><p><a href="https://thzstudent.top/2024/05/01/%E3%80%90%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E3%80%91P0-%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/">上期教程</a>我们配置了环境并初步部署了“ Hexo ”博客框架，本期教程，我们将美化您的博客和让您自定义自己的博客。</p><hr><hr><h4 id="教程到此完毕！"><a href="#教程到此完毕！" class="headerlink" title="教程到此完毕！"></a>教程到此完毕！</h4>]]></content>
     
     
     
